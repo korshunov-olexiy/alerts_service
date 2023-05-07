@@ -1,0 +1,8 @@
+{
+    "region": "Crimea",
+    "alert_on": "/path/to/file/alert_on.mp3",
+    "alert_off": "/path/to/file/alert_off.mp3",
+    "data_url": "https://sirens.in.ua/api/v1/",
+    "update_interval": 60
+}
+
