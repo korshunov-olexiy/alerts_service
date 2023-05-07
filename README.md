@@ -61,3 +61,5 @@ fetch_data(): Fetches JSON data from a given URL using libcurl library and retur
 play_alert_sound(): Plays an alert sound from a given sound file path using the 'mpg123' command-line tool.
 show_dialog(): Displays a GTK message dialog box with the specified title, message, and button options.
 main(): Continuously checks data from a specified URL for updates and triggers alert events based on changes.
+
+[Sponsor this project](https://www.buymeacoffee.com/alexkan)
